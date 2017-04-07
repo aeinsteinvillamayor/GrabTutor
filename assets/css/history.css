@@ -1,0 +1,28 @@
+
+#_hlight{
+
+	width: 15.5em;
+	height: 2em;
+	background: #00a94c;
+	position:absolute;
+	top: 0;
+	margin-top: 26.5em; /*Change only this to */
+	margin-left:4.25em;
+
+
+}
+
+#_actspot{
+	font-family:Futura Heavy;
+}
+a {
+	text-decoration: none !important;
+}
+
+a:hover {
+	text-decoration:none !important;
+}
+
+a:visited {
+	text-decoration:none !important;
+}

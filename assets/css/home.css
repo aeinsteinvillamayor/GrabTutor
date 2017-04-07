@@ -1,0 +1,179 @@
+._fbutt{
+	font-family: "Futura Book";
+	display: inline-block;
+	font-size: 20px;
+	vertical-align: middle;
+	line-height: 60px;
+	margin-left: 60px;
+}
+
+._fbutt a{
+	color: #000;
+}
+
+#_rlog{
+	position:absolute;
+	right: 50px;
+
+}
+
+#_signup {
+	position: absolute;
+	top: 10px;
+	font-family: "Futura Book";
+	display: inline-block;
+	font-size: 20px;
+	vertical-align: middle;
+	text-align:center;
+	line-height: 40px;
+	margin-right: 200px;
+	width: 180px;
+	height: 40px;
+	border-color: #7cc576;
+	color: #7cc576;
+	border: 2px solid;
+	border-radius: 6px;
+	right: 0px;
+}
+
+#_signup:hover {
+	background-color: #7cc576;
+	color: white;
+}
+
+#_signup a{
+	color: #7cc576;
+}
+
+#_signup:hover > a{
+	color: white;
+}
+
+#panel_uno, #panel_dos, #panel_tres, #panel_quatro {
+	width: 100%;
+	height:450px;
+
+}
+
+
+
+#panel_uno{	
+	background:  linear-gradient(
+      rgba(55,55,55, 0.5), 
+      rgba(55,55,55, 0.5)),	url("../imgs/TutoringSession.jpg");
+	background-size: 100%;
+	background-position: 0px -180px;
+}
+
+
+#panel_dos {
+
+	background:  linear-gradient(
+      rgba(55,55,55, 0.5), 
+      rgba(55,55,55, 0.5)),	url("../imgs/IMG_1676.jpg");
+	background-size: 100%;
+	background-position: 0px -180px;
+}
+
+
+#panel_tres{
+
+	background:  linear-gradient(
+      rgba(55,55,55, 0.5), 
+      rgba(55,55,55, 0.5)),	url("../imgs/pa-tutor.jpg");
+	background-size: 100%;
+	background-position: 0px -180px;
+}
+
+.right.carousel-control, .left.carousel-control {
+    display: none;
+}
+
+
+#main_nav {
+	width: 100%;
+	height: 60px;
+
+}
+
+
+#logo_main{
+	display: inline-block;
+	height: 50px;
+	width:  150px;
+	padding-top:10px;
+	margin-left: 50px;
+}
+
+#_log{
+	line-height: 0px;
+	width: 100%;
+	height: auto;
+}
+
+a{
+	text-decoration:none;
+}
+
+a:visited {
+	text-decoration:none;
+}
+
+
+._capt{
+	text-shadow: 1px 1px 8px #222;
+	padding-top: 130px;
+	margin-left: 100px;
+	font-family: "Franklin Gothic Med Cond";
+	line-height: 53px;
+	font-size: 60px;
+	color: #fff;
+}
+
+
+#panel_dos ._capt{
+	padding-top:100px;
+}
+#panel_tres .butts{
+	width: 220px;
+}
+
+._subcapt{
+	margin-left:100px;
+	padding-top:20px;
+	font-family: "Futura Medium";
+	font-size:20px;
+	color: #fff;
+}
+
+
+.butts{
+	margin-top: 20px;
+	width: 180px;
+	height: 40px;
+	background: #00a651;
+	vertical-align: middle;
+	line-height: 40px;
+	text-align:center;
+	margin-left:100px;
+	border-radius: 5px;
+	box-shadow: 1px 1px 4px #222;
+}
+
+
+
+.butts a {
+	color:white;
+
+	font-family: "Futura Heavy";
+	font-size: 17px;
+
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a:active {
+	text-decoration:none;
+}

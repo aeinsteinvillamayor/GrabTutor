@@ -1,0 +1,240 @@
+
+a, a:hover, a:visited, a:active {
+	text-decoration: none;
+}
+
+body{
+	overflow-x: hidden;
+	background:  linear-gradient(
+      rgba(55,55,55, 0.5), 
+      rgba(55,55,55, 0.5)),	url("../imgs/DSC_5307-10.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+input::-webkit-input-placeholder{
+	color: #e0e0e0;
+}
+
+
+._entN {
+	padding-left: 5px;
+	border: 1px solid #e0e0e0;
+	border-radius: 8px;
+	width: 39%;
+	height: 30px;
+	font-family: "Futura Light";
+	font-size: 16px;
+}
+
+._entry{
+	position:absolute;
+	left: 10%;
+	padding-left: 5px;
+	border: 1px solid #e0e0e0;
+	border-radius: 8px;
+	width: 80%;
+	height: 30px;
+	font-family: "Futura Light";
+	font-size: 16px;
+}
+
+
+#_uname{
+	width: 100%;
+	position:absolute;
+	margin-top: 50px;
+}
+
+#_fullName{
+	width: 100%;
+	position:absolute;
+	margin-top: 90px;	
+}
+
+#_fNam{
+	position:absolute;
+	left:10%;
+}
+
+#_lNam{
+	position:absolute;
+	right:10%;
+}
+
+#_pword{
+	width: 100%;
+	position:absolute;
+	margin-top: 130px;	
+}
+
+#_rpword{
+	width: 100%;
+	position:absolute;
+	margin-top: 170px;	
+}
+
+#_emadd{
+	width: 100%;
+	position:absolute;
+	margin-top: 210px;	
+}
+
+#_idno{
+	width: 100%;
+	position:absolute;
+	margin-top: 250px;	
+
+}
+
+#_codeg{
+	width: 100%;
+	position:absolute;
+	margin-top: 290px;	
+
+}
+
+#_phoneno{
+	width: 100%;
+	position:absolute;
+	margin-top: 330px;	
+
+}
+
+#_bday{
+	width: 100%;
+	position:absolute;
+	margin-top: 370px;	
+
+}
+
+
+
+
+#_cont{
+	position:absolute;
+	width: 58.2px;
+	text-align:center;
+	left: 42%;
+	margin-top: 13px;
+	font-family: "Futura Light";
+	font-size: 16px;
+}
+
+._line{
+	width: 30%;
+	height: 1.5px;
+	background-color: #eee;
+}
+
+
+ #_left, #_cont {
+	display: inline-block;
+}
+
+#_right{
+	display: block;
+}
+
+#_right {
+	position:absolute;
+	right: 0;
+	margin-top: 25px;
+	margin-right: 10%;
+}
+
+#_left {
+	position:absolute;
+	left: 0;
+	margin-top: 25px;
+	margin-left: 10%;
+}
+	
+
+#_regbox{
+	position:absolute;
+	width: 400px;
+	height: 580px;
+	border-radius: 10px;
+	background-color: #fff;
+	right: 0px;
+	margin-top: 50px;
+	margin-right: 100px;
+}
+
+
+#_tcont {
+	width: 100%;
+	height: auto;
+}
+
+#_logo{
+	margin: 0 auto; 
+	width: 180px;
+	height: auto;
+	margin-top: 35px;
+}
+
+#_log{
+	width: 100%;
+}
+
+
+._abcont{
+	color: #fff;
+	font-family: "Futura Light";
+	font-size: 16px;
+	line-height: 70px;
+	vertical-align: middle;
+	display: inline-block;
+	margin-left: 20px;
+}
+
+._abcont a{
+	color: #fff;
+}
+
+._copyright{
+	position:absolute;
+	top: 0;
+	color:#fff;
+	width: 100%;
+	font-family: "Futura Light";
+	font-size: 16px;
+	line-height: 70px;
+	vertical-align: middle;
+	text-align:center;
+}
+
+
+#_bcont {
+	width: 100%;
+	background-color: #24262e !important;
+	height: 70px;
+	position: absolute;
+	bottom: -100px;
+}
+
+
+#_submit{
+	width: 90%;
+	color: white;
+	font-family: "Futura Medium";
+	background-color: #00a94c;
+	border: 1px solid #00a94c;
+	border-radius: 10px;
+	text-decoration: none;
+	height: 40px;
+
+}
+
+
+#_sub{
+	margin-bottom: 20px;
+	position: absolute;
+	width: 100%;
+	padding-left: 10%;
+	bottom: 0px;
+}

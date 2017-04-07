@@ -1,0 +1,158 @@
+body{
+	background: url("../imgs/backs.png");
+	background-size: 100%;
+	overflow-x: hidden;
+}
+#_top{
+	width: 100%;
+	height: 100%;
+	padding: 0 0 0 0;
+}
+
+#_logo{
+	padding-left: 5%;
+	padding-top: 0;
+	width: 45%;
+	display:inline-block;
+}
+
+#_logs{
+	height: 50%;
+
+}
+
+
+#_mnav{
+	width: 100%;
+	background: #00a94c;
+	height: 10%;
+}
+
+#_access{
+	height: 100%;
+	width: 50%;
+	font-family: "Futura Light";
+	display: inline-block;
+	font-size: 15px;
+	vertical-align: middle;
+	line-height: 60px;
+}
+
+#_lebs{
+	font-family: "Futura Light";
+}
+
+
+#_ddown{
+	display:none;
+}
+#_cont{
+	color: #fff;
+	display:inline-block;
+	position:absolute;
+	right: 5%;
+	height: 200%;
+	text-decoration: none;
+}
+
+
+a {
+	text-decoration: none !important;
+}
+
+a:hover {
+	text-decoration:none !important;
+}
+
+a:visited {
+	text-decoration:none !important;
+}
+
+#_contdrop{
+	display: hidden;
+	z-index: 1;
+
+}
+
+
+#_mwindow{
+	margin-left: 5%;
+	margin-top: 1.5%;
+	width: 90%;
+	height: 85%;
+	background: #fff;
+	border-radius: 15px;
+	overflow-x:hidden;
+	position:relative;
+}
+#_lwind{
+	width: 18%;
+	position:absolute;
+	left: 0px;
+	height: 100%;
+	background: #565d6b;
+}
+
+#_rwind{
+	width: 82%;
+	position:absolute;
+	right: 0px;
+	height: 100%;
+	background: #fff;	
+
+}
+
+
+._headr{
+	margin-top: 5%;
+	margin-left: 3%;
+	font-size: 1.25em;
+	font-family: "Futura Book";
+	color: #c1c1c1;
+
+}
+
+._subhdr{
+	z-index: 1;
+	font-family: "Futura Book";
+	color: #fff;
+	font-size: 1em;
+	margin-top: .8em;
+	margin-left: 3em;
+	position:relative;
+}
+
+
+#_propic{
+	margin: 0 auto;
+	margin-top: 15%;
+	width: 120px;
+	height: 120px;
+	border: 5px solid #fff;
+	border-radius: 100%;
+	overflow-x: hidden;
+	overflow-y:hidden;
+}
+
+#_imgpic{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+}
+
+#_proname{
+	margin-top: 10%;
+	text-align: center;
+	width: 100%;
+	font-family: "Futura Book";
+	font-size: 1em;
+	color: #fff;
+}
+
+._line{
+	margin-top: 10%;
+	width: 100%;
+	background: #C1C1C1;
+	height: 1px;
+}
+
